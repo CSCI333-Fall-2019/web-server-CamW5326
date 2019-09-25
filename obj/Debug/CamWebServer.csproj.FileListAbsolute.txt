@@ -1,0 +1,10 @@
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\bin\Debug\CamWebServer.exe.config
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\bin\Debug\CamWebServer.exe
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\bin\Debug\CamWebServer.pdb
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.Form1.resources
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.Properties.Resources.resources
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.exe
+C:\Users\camer\Desktop\Networking\IPAddress_Starter\ClassProjects\CamWebServer\obj\Debug\CamWebServer.pdb
